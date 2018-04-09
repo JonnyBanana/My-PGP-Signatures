@@ -6,7 +6,7 @@
 
 </BR>
 
-<h2>Proton Mail PGP Fingerprint:</h2>
+<h2>Proton Mail GPG Fingerprint:</h2>
 
 </BR>
 
@@ -25,7 +25,7 @@
  </BR>
 
 
-<h2>Mailvelope and Gmail PGP Fingerprint:</h2>
+<h2>Mailvelope and Gmail GPG Fingerprint:</h2>
 
 </BR>
 
