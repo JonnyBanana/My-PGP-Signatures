@@ -4,7 +4,7 @@
 
 </BR>
 
-<h5>Mailvelope and Gmail PGP Fingerprint:</h5>
+<h2>Mailvelope and Gmail PGP Fingerprint:</h2>
 
 </BR>
 
@@ -19,7 +19,7 @@ azazaelisback@gmail.com <h4> FA6594C6C31FAAE54D9BD87EAF05B231635B9F59</h4>
 </BR>
 
 
-<h5>Proton Mail PGP Fingerprint:</h5>
+<h2>Proton Mail PGP Fingerprint:</h2>
 
 </BR>
 
