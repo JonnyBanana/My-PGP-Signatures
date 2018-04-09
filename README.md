@@ -6,4 +6,11 @@
 
 Mailvelope and Gmail PGP Fingerprint: <h4> FA6594C6C31FAAE54D9BD87EAF05B231635B9F59</h4>
 
-</br>
+
+</BR>
+
+ jonnybanana@protonmail.com: <h4> 8c8f7dfc02d993b2418786e567040a7d27ccdff7</h4>
+
+</BR>
+
+ jonnybanana@pm.me: <h4> cc2572b2aa752fbfe48f93c7a6063b8be8964e09</h4>
