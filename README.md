@@ -1,6 +1,6 @@
 # My-GPG-Signatures
 </BR>
-My Public GPG  Fingerprint for ProtonMail, Gmail, and Mailvelope.
+<p>My Public GPG  Fingerprint for ProtonMail, Gmail, and Mailvelope.</p>
 
 </BR>
 
