@@ -1,4 +1,4 @@
-# My-GPG-Signatures
+# My-PGP-Signatures
 
 </BR>
 
