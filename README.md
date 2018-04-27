@@ -2,11 +2,11 @@
 
 </BR>
 
-<p>My Public GPG  Fingerprint for ProtonMail, Gmail, and Mailvelope.</p>
+<p>My Public PGP  Fingerprint for ProtonMail, Gmail, and Mailvelope.</p>
 
 </BR>
 
-<h2>Proton Mail GPG Fingerprint:</h2>
+<h2>Proton Mail PGP Fingerprint:</h2>
 
 </BR>
 
@@ -20,12 +20,8 @@
  
  </BR>
 
- ![alt text](https://i.imgur.com/xqyo6sI.png)
- 
- </BR>
 
-
-<h2>Mailvelope and Gmail GPG Fingerprint:</h2>
+<h2>Mailvelope and Gmail PGP Fingerprint:</h2>
 
 </BR>
 
